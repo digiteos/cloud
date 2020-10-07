@@ -2,3 +2,4 @@ Attendance List
 ------------------------------------
 Andres Guillermo Fierro Herrera
 Felipe Izquierdo
+Cristopher Lemos
